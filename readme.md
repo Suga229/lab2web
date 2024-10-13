@@ -53,4 +53,64 @@
 
 ![image](https://github.com/user-attachments/assets/e40028ac-f027-4f1a-b073-b308aad6f44d)
 
+<h2>3. menambahkan inline css</h2>
+
+    <p style="text-align: center; color: #ccd8e4">
+
+![image](https://github.com/user-attachments/assets/1bf48b76-b460-4aef-9087-e84f28532a67)
+
+<h2>4. membuat css eksternal</h2>
+
+    nav {
+      background-color: #20A759;
+      color: #FFF;
+      padding: 10px;
+    }
+    nav a {
+      color: #FFF;
+      text-decoration: none;
+      padding: 10px 20px;
+    }
+    nav .active,
+    nav a:hover{
+    background: #0B6B3A;
+    }
+Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head> 
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+![image](https://github.com/user-attachments/assets/0171888a-fac1-4d36-87e5-d41528da3185)
+
+
+<h2>5. menambahkan css selector</h2>
+
+    /* ID selector */
+    #intro { 
+      background: #418fb1;     
+      border: 1px solid #099249;     
+      min-height: 100px;     
+      padding: 10px; 
+    } 
+    #intro h1 {     
+      text-align: left;     
+      border: 0;     
+      color: #fff; 
+    } 
+
+    /* Class Selector */ 
+    .button { 
+      padding: 15px 20px;     
+      background: #bebcbd;    
+      color: #fff;     
+      display: inline-block;     
+      margin: 10px; 
+      text-decoration: none; 
+    } 
+    .btn-primary { 
+      background: #E42A42; 
+    } 
+
+
+
+![image](https://github.com/user-attachments/assets/7cc3d453-62a3-40a6-b9fd-5f9fbe4818ed)
 
