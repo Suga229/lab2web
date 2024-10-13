@@ -30,3 +30,27 @@
 
 ![image](https://github.com/user-attachments/assets/6f53216c-2af0-43d4-a5b4-0b27ea941e8b)
 
+<h2>2. mendeklarasika css internal</h2>
+
+    <style>
+        body {
+            font-family: 'opem sans', sans-serif;
+        }
+        header {
+            min-height: 80px;
+            border-bottom: 1px solid #77CCEF;
+        }
+        h1 {
+            font-size: 24px;
+            color: #0F189F;
+            text-align: center;
+            padding: 20px 10px;
+        }
+        h1 i {
+            color: #6d6a6b;
+        }
+    </style>
+
+![image](https://github.com/user-attachments/assets/e40028ac-f027-4f1a-b073-b308aad6f44d)
+
+
