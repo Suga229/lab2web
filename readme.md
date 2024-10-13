@@ -26,4 +26,7 @@
               <a class="button btn-primary" href="#intro">Informasi selengkapnya</a>
          </div>
     </body>
-</html>
+    </html>
+
+![image](https://github.com/user-attachments/assets/6f53216c-2af0-43d4-a5b4-0b27ea941e8b)
+
